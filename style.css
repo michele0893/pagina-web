@@ -1,3 +1,5 @@
 body{
-    background-color: blueviolet;
+    background-color: blue(226, 67, 43);
+    font-family:BBH Sans Hegarty;
+    font: size 40px;
 }

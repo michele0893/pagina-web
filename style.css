@@ -1,5 +1,12 @@
 body{
-    background-color: blue(226, 67, 43);
+    background-color:aliceblue(226, 67, 43);
     font-family:BBH Sans Hegarty;
     font: size 40px;
+}
+header{
+   font-size:50px; 
+   text-align:center;
+}
+.top1{
+    background-color: black;
 }
